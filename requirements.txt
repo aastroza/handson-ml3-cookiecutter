@@ -1,0 +1,9 @@
+##### Core scientific packages
+jupyterlab~=4.0.8
+matplotlib~=3.8.1
+numpy~=1.26.2
+pandas~=2.1.3
+scipy~=1.11.3
+
+##### Machine Learning packages
+scikit-learn~=1.3.2
